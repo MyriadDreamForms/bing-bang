@@ -1,0 +1,17 @@
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Infrastructure.deps.json
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Infrastructure.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Infrastructure.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Application.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Quantum.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Quantum.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\bin\Release\net9.0\BigBangSimulation.Application.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.AssemblyInfo.cs
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangS.5780F955.Up2Date
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\refint\BigBangSimulation.Infrastructure.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\BigBangSimulation.Infrastructure.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Infrastructure\BigBangSimulation.Infrastructure\obj\Release\net9.0\ref\BigBangSimulation.Infrastructure.dll

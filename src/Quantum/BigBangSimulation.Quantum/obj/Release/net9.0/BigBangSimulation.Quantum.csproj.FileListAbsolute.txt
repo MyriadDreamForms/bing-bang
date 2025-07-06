@@ -1,0 +1,12 @@
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\bin\Release\net9.0\BigBangSimulation.Quantum.deps.json
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\bin\Release\net9.0\BigBangSimulation.Quantum.dll
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\bin\Release\net9.0\BigBangSimulation.Quantum.pdb
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.csproj.AssemblyReference.cache
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.AssemblyInfoInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.AssemblyInfo.cs
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.csproj.CoreCompileInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.dll
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\refint\BigBangSimulation.Quantum.dll
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\BigBangSimulation.Quantum.pdb
+C:\Users\89429\Desktop\bing-bang\src\Quantum\BigBangSimulation.Quantum\obj\Release\net9.0\ref\BigBangSimulation.Quantum.dll

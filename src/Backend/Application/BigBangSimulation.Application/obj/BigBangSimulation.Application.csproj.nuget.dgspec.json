@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Backend\\Application\\BigBangSimulation.Application\\BigBangSimulation.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Backend\\Application\\BigBangSimulation.Application\\BigBangSimulation.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Backend\\Application\\BigBangSimulation.Application\\BigBangSimulation.Application.csproj",
+        "projectName": "BigBangSimulation.Application",
+        "projectPath": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Backend\\Application\\BigBangSimulation.Application\\BigBangSimulation.Application.csproj",
+        "packagesPath": "C:\\Users\\89429\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Backend\\Application\\BigBangSimulation.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\89429\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\BigBangSimulation.Quantum.csproj": {
+                "projectPath": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\BigBangSimulation.Quantum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\BigBangSimulation.Quantum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\BigBangSimulation.Quantum.csproj",
+        "projectName": "BigBangSimulation.Quantum",
+        "projectPath": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\BigBangSimulation.Quantum.csproj",
+        "packagesPath": "C:\\Users\\89429\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\89429\\Desktop\\bing-bang\\src\\Quantum\\BigBangSimulation.Quantum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\89429\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Quantum.Sdk": {
+              "target": "Package",
+              "version": "[0.28.302812, )"
+            },
+            "Microsoft.Quantum.Simulators": {
+              "target": "Package",
+              "version": "[0.28.302812, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

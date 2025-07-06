@@ -1,0 +1,8 @@
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.csproj.AssemblyReference.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.AssemblyInfoInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.AssemblyInfo.cs
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.csproj.CoreCompileInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\89429\Desktop\bing-bang\src\Backend\BigBangSimulation.Api\obj\Release\net9.0\BigBangSimulation.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\bin\Release\net9.0\BigBangSimulation.Application.deps.json
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\bin\Release\net9.0\BigBangSimulation.Application.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\bin\Release\net9.0\BigBangSimulation.Application.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\bin\Release\net9.0\BigBangSimulation.Quantum.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\bin\Release\net9.0\BigBangSimulation.Quantum.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.csproj.AssemblyReference.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.AssemblyInfoInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.AssemblyInfo.cs
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.csproj.CoreCompileInputs.cache
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangS.17C9E1D1.Up2Date
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\refint\BigBangSimulation.Application.dll
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\BigBangSimulation.Application.pdb
+C:\Users\89429\Desktop\bing-bang\src\Backend\Application\BigBangSimulation.Application\obj\Release\net9.0\ref\BigBangSimulation.Application.dll
